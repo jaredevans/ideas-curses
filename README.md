@@ -5,4 +5,5 @@ To run: ideas.py --db ~/ideas.db
 
 ![Screenshot](https://i.imgur.com/qaMrvDP.png)
 
-
+Adding new idea:
+![Screenshot](https://i.imgur.com/wnNbmkL.png)
